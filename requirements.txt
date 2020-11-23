@@ -1,0 +1,8 @@
+flask
+pyyaml
+celery
+flask-cors
+flask-login
+flask-script
+flask-migrate
+flask-sqlalchemy
